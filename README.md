@@ -2,7 +2,6 @@
 
 My name is Zhu Jiyuan. Let's do something fun~
 
-- 🔭 I’m currently working on Eskyfun.
 - 🌱 I’m currently learning network engineering.
 - 🤔 I’m looking for help with English.
 - 💬 I like to think.
